@@ -1,0 +1,21 @@
+{
+    "name": "jmwl/real-token",
+    "description": "real-token",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangzhaozhen",
+            "email": "171945608@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jmwl\\real-token\\": "src/"
+        }
+    }
+}
